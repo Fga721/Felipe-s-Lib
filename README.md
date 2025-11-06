@@ -5,6 +5,7 @@
 * Blazey - original template
 * Brekko/Jay - original repositories (also thanks for helping me on softcode the Bull and fixing them)
 * Snowie and Vi - helping Blazey making original template
+* RenoJson - More stable ZombieBull and ZCorpChairRacer code
 
 # What is this?
 
