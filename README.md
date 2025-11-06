@@ -8,16 +8,18 @@
 
 # What is this?
 
-An expanded library for PvZ2 (9.6.1), based on Brekko's ExampleMod. I want it to be fully open sourced and public. My main goal is try to softcode any zombies via reflection system, which adds new properties to packages. It's currently in development, and no ARM64 version is available at the moment. 
+An expanded library for PvZ2 (9.6.1), based on Brekko's ExampleMod. I want it to be fully open sourced and public.
 
 # Current Features
+* Vertical Worldmap Movement! - Now your maps can move vertically!
+* PVZDB with correct offsets! - This will make Thymed Events (LTE) work with the Lib!
 * IntegerID backport! - Plant/Zombie types now support id mapping, which will help modders who dont want to constantly update the apk.
 * Arcade Pusher GI softcode
 * Mummy Memory from the original Example Mod
 * Stable softcode for Bull and Chair Racer, now it's shouldn't have any bug anymore for now. Also, now you can use the bull softcode for veteran bull too. Check the sample.json file in packages to learn how to use them.
 
-# Future Plans
-- Port my stuff to 64 bit once there are 64 bit template
+# PVZDB
+Now, with the offsets in version 9.6.1, the error with the small buttons is fixed; they are now larger.
 
 # Build Instructions
 Building this repo is the same as building Blazey example mod update. The instructions regarding that [you can find here](https://github.com/BlazeyLol/PVZ2ExampleMod) and [here](https://github.com/BlazeyLol/PVZ2ExpansionMod) or [in this old doc](https://docs.google.com/document/d/1egwNqNJjw61MlLYMgzUewdTkztpB-6VruHrSez90gcA/edit?usp=sharing).
