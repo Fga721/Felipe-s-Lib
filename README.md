@@ -20,7 +20,7 @@ An expanded library for PvZ2 (9.6.1), based on Brekko's ExampleMod. I want it to
 * Stable softcode for Bull and Chair Racer, now it's shouldn't have any bug anymore for now. Also, now you can use the bull softcode for veteran bull too. Check the sample.json file in packages to learn how to use them.
 
 # PVZDB
-Now, with the offsets in version 9.6.1, the error with the small buttons is fixed; they are now larger.
+Now, the offsets from version 9.6.1 are in place and the small button bug has been fixed; they are now larger.
 
 # Build Instructions
 Building this repo is the same as building Blazey example mod update. The instructions regarding that [you can find here](https://github.com/BlazeyLol/PVZ2ExampleMod) and [here](https://github.com/BlazeyLol/PVZ2ExpansionMod) or [in this old doc](https://docs.google.com/document/d/1egwNqNJjw61MlLYMgzUewdTkztpB-6VruHrSez90gcA/edit?usp=sharing).
